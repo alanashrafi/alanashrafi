@@ -2,11 +2,11 @@
 <h3 align="center">A PASSIONATE AND CREATIVE .NET FULLSTACK DEVELOPER</h3>
 <h4>I'm good at programming but I'm more passionate about solving problems. I spend most of my free time exprimenting with different programming language. I love coding and challenge myself by learning something new every day </h4>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-alan1368.vercel.app](https://portfolio-alan1368.vercel.app)
 
-- 💬 Ask me about **React, .NET, REST API,**
+- 💬 Ask me about **Angular, React, .NET, REST API,**
 
 - 📫 How to reach me **alanashrafi@outlook.com**
 
